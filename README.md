@@ -207,4 +207,4 @@ This repository serves as the official landing page for Extreme Tux Racer. The s
 **Get the most recent version of Extreme Tux Racer today!**
 
 ---
-**Last updated:** 2026-11-09 13:26:31 UTC
+**Last updated:** 2026-11-09 23:12:08 UTC
